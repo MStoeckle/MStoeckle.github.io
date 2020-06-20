@@ -1,1 +1,8 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Muffi Schlumpf
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+## Eigenschaften von Muffi Schlumpf
+
+* Muffig
+* Grantig
+* Übellaunig
