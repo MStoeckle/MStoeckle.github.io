@@ -9,3 +9,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Lieblingsspruch
 "Ich hasse Gargamel"
+
+## Bild von Muffi
+<img src="IMG.jpg"> 
